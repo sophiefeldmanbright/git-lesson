@@ -2,7 +2,7 @@
 
 ## What I love...
 
-![] (https://klimbingkorns.de/climbing-saint-leger-france/)
+[Link to another page] (https://klimbingkorns.de/climbing-saint-leger-france/)
 
 - pizza
 - Leon
